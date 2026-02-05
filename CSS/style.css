@@ -1,0 +1,17 @@
+ h1  {
+    font-family:Oswald;
+    color: aqua;
+    font-size: 250%;
+    font-style: normal;
+    font-weight: 100;
+    text-align: center;
+    text-shadow: aqua;
+    background-color: black;
+    line-height: 1.5;
+   
+}
+ p1  {
+    font-size: medium;
+    font-style: italic;
+    line-height: 1.5;
+ }
